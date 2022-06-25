@@ -4,6 +4,6 @@
 ____
 # Горячие клавиши
 (кроме цифр и символов +, -, /, *, =, %, ,)
-Del - CE | Esc - C | Backspace -  ←
-Q - √ | Z - ± | @ - 1/x
-A - MC | S - MR | D - MS | F - M+ | G - M-
+1. Del - CE | Esc - C | Backspace -  ←
+2. Q - √ | Z - ± | @ - 1/x
+3. A - MC | S - MR | D - MS | F - M+ | G - M-
